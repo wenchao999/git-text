@@ -1,3 +1,4 @@
 this is first git
  111111
- 222222
+ 222222	
+ this is double-master create txt
